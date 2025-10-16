@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'NataSans Black';
+    src: url('fonts/NataSans-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NataSans Bold';
+    src: url('fonts/NataSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NataSans ExtraBold';
+    src: url('fonts/NataSans-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NataSans ExtraLight';
+    src: url('fonts/NataSans-ExtraLight.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NataSans Light';
+    src: url('fonts/NataSans-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NataSans Medium';
+    src: url('fonts/NataSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NataSans Regular';
+    src: url('fonts/NataSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NataSans SemiBold';
+    src: url('fonts/NataSans-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'NataSans Thin';
+    src: url('fonts/NataSans-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+}
